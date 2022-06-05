@@ -794,7 +794,7 @@
   #define DELTA_MAX_RADIUS       130.0    // (mm)
 
   // Center-to-center distance of the holes in the diagonal push rods.
-  #define DELTA_DIAGONAL_ROD 280.00       // (mm)
+  #define DELTA_DIAGONAL_ROD 269.00       // (mm)
 
   // Distance between bed and nozzle Z home position
   #define DELTA_HEIGHT 370.00             // (mm) Get this value from G33 auto calibrate
